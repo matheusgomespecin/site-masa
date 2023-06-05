@@ -68,3 +68,16 @@ a{
 a:hover{
     color: #555;
 }
+
+button{
+    padding: 10px 20px;
+    background-color: #555;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#hiddenContent{
+    margin-top: 20px;
+}
